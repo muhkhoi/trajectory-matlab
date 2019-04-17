@@ -6,3 +6,4 @@ modified version in order to compare recent and previous data.
 `matlabclass.func((MWArray)positionX, (MWArray)positionY, (MWArray)positionZ, (MWArray)pitchoriented, (MWArray)rolloriented, (MWArray)yaworiented, mode);`
 
 # Preview
+![alt text](https://raw.githubusercontent.com/muhkhoi/trajectory-matlab/master/Preview.png)
